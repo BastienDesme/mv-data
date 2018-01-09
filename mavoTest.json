@@ -1,0 +1,13 @@
+{
+	"conference": [
+		{
+			"img": "img/responsive.jpg",
+			"titre": "Lorem",
+			"texte": "résumé."
+		},
+		{
+			"img": "img/andreas.jpg",
+			"titre": "Ipsum"
+		}
+	]
+}
