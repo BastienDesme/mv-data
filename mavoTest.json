@@ -10,10 +10,10 @@
 			"titre": "Ipsum"
 		},
 		{
-			"img": "https://cdn.rawgit.com/BastienDesme/mv-data/f3d3b2aa49e112d7f9df0898adcf501c61144086/images/guillaume.png"
+			"img": "https://cdn.jsdelivr.net/gh/BastienDesme/mv-data@f3d3b2aa49e112d7f9df0898adcf501c61144086/images/guillaume.png"
 		},
 		{
-			"img": "https://cdn.rawgit.com/BastienDesme/mv-data/2d5a9304f31d1aa1d8ec65b104bf95621ef4c872/images/aurelie.jpg"
+			"img": "https://cdn.jsdelivr.net/gh/BastienDesme/mv-data@2d5a9304f31d1aa1d8ec65b104bf95621ef4c872/images/aurelie.jpg"
 		}
 	]
 }
